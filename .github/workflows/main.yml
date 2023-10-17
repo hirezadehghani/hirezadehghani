@@ -12,6 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: reza-dehghani/reza-dehghani@main
+      - uses: reza-dehghani/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
