@@ -1,8 +1,7 @@
 ### Hi there 👋
-![Metrics](/github-metrics.svg)
 <!--
 **reza-dehghani/reza-dehghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 Thanks for visiting my Github profile, I love to solve world problems with programming. I am working hard on software engineering methodologies and software modeling.
 I am skilled in problem-solving, and software engineering, especially in web back-end development.
@@ -20,6 +19,7 @@ I do everything in my power to create value for the best startups.
 <p align="center">
 <a href="https://www.linkedin.com/in/hi-reza-dehghani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reza-dehghani" height="30" width="40" /></a>
 </p>
- 😄 Pronouns: ...
- ⚡ Fun fact: ...
--->
+ 😄 Pronouns: He
+ ⚡ Fun fact: Every help to the world brings back to you
+
+![Metrics](/github-metrics.svg)
