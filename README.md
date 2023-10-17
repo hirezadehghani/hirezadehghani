@@ -4,11 +4,7 @@
 - 🔭 I’m currently working on ...
 
 -->
-Here are some ideas to get you started:
 Thanks for visiting my Github profile, I love to solve world problems with programming. I am working hard on software engineering methodologies and software modeling.
-
-I am skilled in problem-solving, and software engineering, especially in web back-end development.
-I do everything in my power to create value for the best startups.
 
  🌱 I’m currently learning Laravel
  
