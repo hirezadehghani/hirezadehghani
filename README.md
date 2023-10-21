@@ -45,7 +45,6 @@ Thanks for visiting my Github profile, I love to solve world problems with progr
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=reza-dehghani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-![image](https://github.com/reza-dehghani/reza-dehghani/assets/75562501/7ce4759d-11bf-4f94-b426-efcfbe2bf552)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
