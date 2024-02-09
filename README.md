@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Reza Dehghani</h1>
-<h3 align="center">A person who wants to make the world better than before with computer science</h3>
 
 [![](https://visitcount.itsvg.in/api?id=hirezadehghani&label=Profile%20Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
