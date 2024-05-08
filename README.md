@@ -20,7 +20,7 @@ Thanks for visiting my Github profile, I love to solve world problems with progr
  
  My website: **https://hireza.ir**
  
- My email: **reza@hireza.ir**
+ My email: **hello.dehghani@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
