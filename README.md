@@ -67,6 +67,7 @@ Thanks for visiting my Github profile, I love to solve world problems with progr
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
 ### Holopin board
 [![An image of @rezadehghani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rezadehghani)](https://holopin.io/@rezadehghani)
+ -->
