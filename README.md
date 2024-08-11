@@ -22,12 +22,12 @@ Thanks for visiting my Github profile, I love to solve world problems with progr
  My website: **https://hireza.ir**
  
  My email: **hello.dehghani@gmail.com**
--->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/hi-reza-dehghani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reza-dehghani" height="30" width="40" /></a>
 </p>
+-->
 <!--
  😄 Pronouns: He
  
