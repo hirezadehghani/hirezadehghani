@@ -16,7 +16,7 @@ Thanks for visiting my Github profile, I love to solve world problems with progr
  
  💬 Ask me about Laravel and back-end technologies
 
-<!--
+
  📫 How to reach me:
  
  My website: **https://hireza.ir**
@@ -25,9 +25,9 @@ Thanks for visiting my Github profile, I love to solve world problems with progr
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/hi-reza-dehghani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reza-dehghani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hirezadehghani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reza-dehghani" height="30" width="40" /></a>
 </p>
--->
+
 <!--
  😄 Pronouns: He
  
@@ -40,12 +40,13 @@ Thanks for visiting my Github profile, I love to solve world problems with progr
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hi-reza-dehghani) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15791696) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hirezadehghani) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15791696) 
 -->
 
 <!-- # 💻 Tech Stack:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 -->
+
 <!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hirezadehghani&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -70,6 +71,5 @@ Thanks for visiting my Github profile, I love to solve world problems with progr
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in )
 ### Holopin board
--->
 [![An image of @rezadehghani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rezadehghani)](https://holopin.io/@rezadehghani)
 -->
