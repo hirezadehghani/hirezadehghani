@@ -46,6 +46,7 @@ Thanks for visiting my Github profile, I love to solve world problems with progr
 <!-- # 💻 Tech Stack:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 -->
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hirezadehghani&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <!--
@@ -71,3 +72,4 @@ Thanks for visiting my Github profile, I love to solve world problems with progr
 ### Holopin board
 -->
 [![An image of @rezadehghani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rezadehghani)](https://holopin.io/@rezadehghani)
+-->
