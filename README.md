@@ -36,7 +36,7 @@ Thanks for visiting my Github profile, I love to solve world problems with progr
 ![Metrics](/github-metrics.svg)
 
 # 💫 About Me:
-🌱 I’m currently learning Laravel<br><br>👯 I’m looking to collaborate on open-source projects<br><br>🤔 I’m looking for help with starting to contribute to the best open-source projects<br><br>💬 Ask me about Laravel and back-end technologies<br><br>📫 How to reach me:<br><br>My website: https://hireza.ir<br><br>My email: reza@hireza.ir
+🌱 I’m currently learning Laravel<br><br>👯 I’m looking to collaborate on open-source projects<br><br>💬 Ask me about Laravel and back-end technologies<br><br>📫 How to reach me:<br><br>My website: https://hireza.ir<br><br>My email: reza@hireza.ir
 
 
 ## 🌐 Socials:
