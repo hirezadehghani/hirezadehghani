@@ -12,7 +12,7 @@ Thanks for visiting my Github profile, I love to solve world problems with progr
  
  👯 I’m looking to collaborate on open-source projects
  
- 🤔 I’m looking for help with starting to contribute to the best open-source projects
+ 🤔 I’m looking for full-stack or back-end remote **pair-programmers** who/whom working on new ideas
  
  💬 Ask me about Laravel and back-end technologies
 
