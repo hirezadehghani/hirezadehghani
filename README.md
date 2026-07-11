@@ -10,7 +10,7 @@ Thanks for visiting my Github profile, I love to solve world problems with progr
  [![](https://visitcount.itsvg.in/api?id=hirezadehghani&label=Profile%20Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
  -->
 
- 🤔 I’m looking for full-stack or back-end remote **programmers** who/whom working on new ideas
+ 🤔 I’m looking for **developers**, **product designer**, **product developer** or any other who/whom love to working on new ideas
  
  👯 I’m looking to collaborate on open-source projects 
  
